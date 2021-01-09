@@ -1,0 +1,112 @@
+.pro_head
+{
+  background: #efefef;
+}
+.asklefttab{
+    flex:0.70;
+ }
+ .askrighttab{
+    flex:0.30;
+ }
+ .askinner{
+   box-shadow: 0px 0px 11px #ccc;
+ }
+ .aser {
+   
+   border-bottom: 1px solid #ccc;
+   border-right: 1px solid #ccc;
+   
+ }
+ 
+ .as12 h6 {
+   margin-bottom: 0px;
+   margin-left: 6px;
+   font-size: 17px;
+   font-weight: 600;
+ }
+ 
+ .as13 input{
+     border: none;
+     background-color: transparent;
+     outline-width: 0;
+     width: 100%;
+ }
+ 
+ .as13 {
+   width: 30%;
+   padding: 7px;
+   background-color: #eff2f5;
+   
+ }
+ 
+ 
+ .qa-wrap{
+     
+     border-bottom: 1px solid #ccc;
+     border-right: 1px solid #ccc;
+ }
+ 
+ 
+ .like-dislike {
+   color: #868181;
+ }
+ .ques-ans p {
+   margin-top: 14px;
+ }
+ .tuinner {
+   margin-left: 14px;
+ }
+ 
+ .qa-see{
+     border-right: 1px solid #ccc;
+ }
+ 
+ 
+ .qa-13 h6{
+     margin-bottom: 0px;
+     margin-left: 6px;
+     font-size: 17px;
+     font-weight: 600;
+ }
+ 
+ .que-img-inner{
+   border-top: 1px solid #ccc;
+   
+ }
+ 
+ .que-img-item {
+   
+   width: 42%;
+   
+ }
+ .que-img-inner img {
+   margin-right: 12px;
+   margin-top: 7px;
+   width: 100%;
+ }
+ 
+ .que-img-inner img {
+   margin-right: 12px;
+   margin-top: 7px;
+ }
+ 
+ .qa-12 h6 {
+   margin-bottom: 0px;
+   font-size: 16px;
+   font-weight: 600;
+   color: hsl(28deg 99% 49%);
+ }
+ 
+ 
+ .tuinner {
+   margin-left: 32px;
+ }
+ 
+ .like-dislike p {
+   text-align: right;
+   font-size: 14px;
+ }
+ 
+ .Trendingvideos-main{
+ padding: 20px;
+ }

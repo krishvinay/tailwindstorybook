@@ -1,0 +1,51 @@
+/* Boughttogether */
+.Boughttogether-main-wrp {
+    padding: 20px;
+    
+  }
+  .react-tabs__tab--selected {
+    background: #020202;
+    border-color: #aaa;
+    color: #fff!important;
+    border-radius: 50px;
+    border: none;
+  }
+  .icon-offer {
+    display: flex;
+    justify-content: space-between;
+  }
+  .inner-brought-item {
+  
+    border-right: 1px solid #ccc!important;
+  }
+  .rat-bought h4
+  {
+  color: hsl(28deg 100% 53%);
+  }
+  .rat-bought h5 {
+    color: #388e3c!important;
+    font-weight: 900!important;
+    margin-top: 8px;
+    font-size: 15px;
+  }
+  .icon-offer h6 {
+    color: #388e3c!important;
+    border: none!important;
+    font-weight: 700;
+    background-color: #5cb85c2b!important;
+    border-radius: 50px;
+    padding: 5px 17px;
+    font-size: 12px;
+  }
+  .rat-bought span {
+    color: #888383;
+  }
+  .brought-item li {
+    border: 1px solid #3c3c3c;
+    border-radius: 50px;
+    margin-right: 10px;
+    color: #3c3c3c;
+  }
+  
+  
+  

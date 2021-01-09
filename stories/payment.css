@@ -1,0 +1,163 @@
+/* Payment */
+
+.mybtn{
+    background-color: rgb(255, 144, 11) !important;
+    padding: 5px 18px !important;
+    color:#fff!important;
+  }
+  .coupon-link
+  {
+  color:#ff7f0b;
+  }
+  
+  .pro-link span {
+  color: #898c90;
+  }
+  .payment_color
+  {
+  color: green;
+  }
+  .details-link
+  {
+  color: #000;
+  }
+  .payoff_wrapper{
+  background: #f5f5f5;
+  }
+  .list-combo-bg {
+  background: none!important;
+  }
+  .payoff-left{
+   flex:0.60;
+  }
+  .payoff-right{
+  flex:0.40;
+  
+  }
+  .payoffbox{
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0px 0px 20px 0px #ddd;
+  
+  }
+  .term-payoff {
+  color: #388e3c!important;
+  }
+  
+  .discount-payoff-heading h3 {
+  background: #388e3c;
+  }
+  .discount-payoff-heading {
+  border-bottom: 1px solid #ddd;
+  }
+  
+  .paytabs .MuiTab-wrapper{
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  }
+  .payment_modetabs {
+  flex: 0.50;
+  }
+  .payofff-formwrp {
+  flex: 0.50;
+  }
+  .f-start{
+  align-items: start;
+  }
+  .payoff-right-content{
+  margin-top: 10px;
+  }
+  .payoffbox-nopadd {
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0px 0px 20px 0px #ddd;
+  }
+  .save-note{
+  color: #388e3c!important;
+  background-color: #dff0bb;
+  }
+  .payoff-textfield{
+  padding-bottom: 20px!important;
+  }
+  .offright-text{
+  margin-right: 20px;
+  }
+  .choospay-leftcon
+  {
+  flex-basis:30px;
+  }
+  .choospay-centcon{
+  flex-basis:330px;
+  }
+  .choospay-rightcon{
+  flex-basis:320px;
+  }
+  .cvv-text{
+  width: 40%;
+  }
+  .recommend-note{
+  color: #b3b3b3;
+  }
+  .tab-left22 {
+    flex-basis: 60%;
+    
+  }
+  .tab-left21 {
+    flex-basis: 40%;
+   
+  }
+  .payment_offer input
+  {
+    width: 400px;
+    
+  }
+  .per-addform {
+    width: 100%;
+    margin-bottom: 15px!important;
+  }
+  .payment_inputs {
+      width: 95%;
+      border: 1px solid #ccc;
+      box-sizing: border-box;
+      border-radius: 0px;
+  
+  }
+  .payment_select
+  {
+    width: 45%;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    border-radius: 0px;
+  
+  }
+  .payment_cvv {
+  width: 30%;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+  border-radius: 0px;
+  }
+  .payment_cvv1
+  {
+    
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+  }
+  .payment_text
+  {
+    width: 60%;
+    float: right;
+    margin-top: 20px;
+    color:#949494;
+  }
+  .edit_link
+  {
+    color: #ff7f0b;   
+  }
+  
+  .bdboot {
+    border-bottom: 1px solid #ddd;
+  }
+  .tab-left21 button {
+    text-align: left;
+    border-bottom: 1px solid #ccc;
+  }
+  /* end Payment */

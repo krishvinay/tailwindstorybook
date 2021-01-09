@@ -1,0 +1,107 @@
+
+.bdboot{
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .p12{
+  padding: 20px;
+  }
+  .let-spa {
+    line-height: 30px;
+  }
+  .shad12{
+    box-shadow: 0px 0px 11px #ccc;
+  }
+  
+  
+  .pad12{
+     padding:10px;
+  }
+  .boder-full{
+    border:1px solid #ddd;
+  }
+  
+  .content-wrap{
+    display: flex
+  }
+  
+  .addPos {
+    
+    top: 42%;
+    right: -34px;
+    border: 1px solid #dcdcdc;
+    width: 33px;
+    height: 33px;
+    
+  }
+  .addPos svg
+  {
+    margin-top:-10px;
+  }
+  
+  
+  .left-content{
+    flex-basis: 75%;
+    
+  }
+  .right-content{
+      flex-basis: 25%;
+      background: #2b9c59;
+      color: #fff;
+      padding: 0 0 32px;
+  }
+  
+  .itemscombo {
+    border-right: 1px solid #ccc;
+    width: 100%;
+    
+  }
+  
+  
+  .combo-tit {
+      
+      border-bottom: 1px solid #ccc;
+  }
+  
+  .right-content h4 {
+    margin-top: 25px;
+    margin-bottom: 20px;
+  }
+  .right-content button {
+    margin-top: 19px;
+  }
+  .right-content p {
+    line-height: 27px;
+  }
+  p.savePrice {
+    color: #388e3c!important;
+    font-weight: 700;
+  }
+  p.price-rang {
+    line-height: 35px;
+    
+  }
+  
+  h4 span.strike {
+    text-decoration: line-through;
+    color:#83ce93;
+  }
+  
+  .oldPrice {
+    color: #afafaf;
+  }
+  
+  .dragHandle{
+      position: absolute;
+      top: 43%;
+      left: -17px;
+      border-radius: 50%;
+      width: 33px !important;
+      height: 33px !important;
+      text-align: center;
+      line-height: 47px;
+      background: #fff;
+      color: #2b9c59;
+  }
+  
+  

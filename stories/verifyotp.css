@@ -1,0 +1,111 @@
+/* Start login  css*/
+
+.MuiDialog-paperWidthSm {
+    max-width: 520px !important;
+}
+#customized-dialog-titles
+{
+  position: absolute;
+  right: 0;
+  padding: 5px;
+}
+.exchange_offer {
+    font-weight: 900 !important;
+    background: #e1f5fe !important;
+    border: 1px solid #e1f5fe !important;
+    color: #000 !important;
+    text-transform: capitalize !important;
+    margin: 10px 10px !important;
+}
+.login_closeButton
+{
+    top: 8px;
+    color: #ffffff !important;
+    right: 8px;
+    position: absolute;
+}
+.login_back
+{
+  background: #ff980b;
+}
+.login_main .login_wrappers .login_line {
+  display: -webkit-box;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+          flex-direction: row;
+  -webkit-box-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+          align-items: center;
+
+      padding-bottom: 0px;
+      padding: 10px 0px;
+      padding-bottom: 0px;
+}
+.login_main .login_wrappers .line-bar {
+  -webkit-box-flex: 1;
+          flex: auto;
+  flex-basis: auto;
+  border: none;
+  outline: none;
+  height: 1.3px;
+  background: #bed1df;
+  margin: 10px;
+}
+.login_main .login_wrappers .login_line {
+  font-weight: 500;
+  color: #252a32;
+}
+.login_password
+{
+      color: #1aab1a;
+    font-weight: 700;
+
+}
+
+.login_btn-action {
+  display: -webkit-box;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+          flex-direction: row;
+  -webkit-box-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+          align-items: center;
+  font-family: inherit;
+  font-size: 0.95rem;
+  font-weight: 500;
+  line-height: inherit;
+  /*padding: 12px 38px;*/
+  width: 100%;
+  height: auto;
+  outline: none;
+  border: 1.3px solid #bed1df;
+  border-radius: 5px;
+  color: #252a32;
+  background: #ffffff;
+  -webkit-transition: all 0.35s ease;
+  transition: all 0.35s ease;
+}
+.login_btn-action:hover {
+  background: #cfdde7;
+}
+.login_btn-action svg
+{
+  color:#000;
+  margin-right: 5px;
+}
+.login_social svg
+{
+  color: #1b80e4;
+  
+}
+.login_social
+{
+  color: #1b80e4;
+}
+
+
+/* End login css */

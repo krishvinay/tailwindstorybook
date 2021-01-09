@@ -1,0 +1,193 @@
+/* address show */
+.address_option
+{
+    background: #ededed ;
+}
+.address_data h6
+{
+      color: #000 !important;
+    font-size: 20px !important;
+    font-weight: 600 !important;
+}
+.address_data p
+{
+  color: #191919 !important;
+    /* font-size: 15px; */
+    font-weight: 600;
+    margin-bottom: 15px;
+    width:100%;
+}
+
+.button_back
+{
+  
+  border: 1px solid #aeaeae !important;
+  margin:0px 10px !important;
+}
+
+.address-details
+{
+  box-shadow: none !important;
+    border-bottom: 1px solid #aeaeae;
+    border-radius: 0px !important;
+}
+.address_span
+{
+    padding: 5px 15px;
+    /* background: #a94747; */
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    color: green;
+    margin: 20px 20px;
+}
+.address_head
+{
+  border-bottom: 1px solid #ccc;
+}
+.summary
+{
+  padding-top: 0px !important;
+
+}
+.payment {
+    width: 100%;
+    border-radius: 5px !important;
+    margin-top: 30px !important;
+    padding: 10px 10px !important;
+    background: orange !important;
+    color: #fff !important;
+    font-weight: bold !important;
+}
+.flexing {
+    
+}
+.address_total h6
+{
+  text-align: left;
+    padding: 10px 10px;
+    background: #deeac4;
+    border-radius: 5px;
+    color: green;
+    font-weight: bold;
+}
+.address_payment
+{
+  border:1px solid #ccc;
+  border-radius: 10px;
+  box-shadow: 0px 2px 4px -1px rgba(0,0,0,0.2), 0px 4px 5px 0px rgba(0,0,0,0.14), 0px 1px 10px 0px rgba(0,0,0,0.12);
+}
+.address_payment h6 {
+    padding: 15px;
+    border-bottom: 1px solid #ccc;
+    font-weight: bold;
+    display: flex;
+}
+.address_total
+{
+  border-top: 1px dotted green;
+    font-weight: bold;
+}
+.address_link
+{
+  margin: 0px 350px;
+}
+.colorchange
+{
+  color: orange;
+}
+.cart_banner
+{
+  font-weight: bold;
+  border-bottom: 1px solid #ccc;
+  display: flex;
+  padding: 10px !important;
+}
+.address_paper
+{
+        maxWidth: 100%;
+        border-bottom:1px solid #ccc;
+}
+.address_grid
+{
+    box-shadow: 5px solid #ccc;
+    border: 1px solid #ccc;
+    box-shadow: 0px 2px 4px -1px rgba(0,0,0,0.2), 0px 4px 5px 0px rgba(0,0,0,0.14), 0px 1px 10px 0px rgba(0,0,0,0.12);
+}
+.address_paper:last-child
+{
+  border-bottom: none !important;
+}
+.address_steps
+{
+  margin:auto 20%;
+}
+.PrivateSwitchBase-input-4
+{
+  display: none !important;
+}
+.cart_flexing
+{
+  flex-grow: 1;
+  display: inline-flex;
+  align-items: center;
+  padding: 8px;
+}
+
+
+.heads
+{
+  padding: 10px;
+}
+.flexing svg
+{
+  margin-right: 10px;
+}
+.address_payment h6 svg{
+    margin-right: 20px;
+}
+.address
+{
+  width: calc(100% + 24px);
+  margin: -12px;
+}
+
+@media only screen and (max-width : 380px) {
+  
+.address_data p {
+   
+    font-size: 15px;
+   
+       width: 100%;
+}
+.address_option {
+    margin-top: 20px !important;
+    margin-left: 50px !important;
+}
+}
+@media screen and (max-width: 590px) and (min-width: 401px) {
+  .address_link {
+     margin: 0px 0px !important; 
+}
+.address_data p {
+    
+    width: 100%;
+    font-size:13px;
+}
+.address_span {
+    padding: 5px 10px !important;
+  
+}
+
+.button_back {
+    
+    margin: 0px 3px !important;
+}
+}
+@media screen and (max-width: 767px) and (min-width: 591px) {
+ .address_option {
+    margin-top: 20px !important;
+    margin-left: 50px !important;
+}
+}
+
+

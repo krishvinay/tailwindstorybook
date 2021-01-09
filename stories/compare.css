@@ -1,0 +1,76 @@
+/* start compare product */
+.bought-tab {
+    box-shadow: 0px 0px 11px #ccc;
+    
+  }
+  
+  
+  .icon-offers p
+  {
+      margin-right: auto;
+      margin-top: 1px;
+      margin-left: 5px;
+      font-weight: bold;
+  }
+  .icon-offers svg
+  {
+    color:orange;
+  }
+  .icon-offers h6 {
+    color: #388e3c!important;
+    background-color: #5cb85c2b!important;
+   
+  }
+  .icon-offers {
+    display: flex;
+    justify-content: space-between;
+  }
+  .listdata svg
+  {
+    font-size: small !important;
+    color:green;
+  }
+  .listdata p {
+      
+      color: #888888;
+      
+      
+  }
+  .listdata
+  {
+    padding: 0px !important;
+  }
+  .productdata h51 {
+      color: #ff7e08 !important;
+      text-align: start;
+      font-size: 18px;
+      line-height: 20px;
+  }
+  
+  .productdata h6 {
+      color: #000;
+      
+  }
+  .productdata h5 {
+      color: #888888 !important;
+      
+  }
+  .productdata h4 {
+      color: #ff7e08 !important;
+      
+  }
+  .brought-item p {
+      float: right;
+      padding: 8px;
+      text-decoration: underline;
+  }
+  @media only screen and (max-width: 450px) {
+    
+    .inner-brought-item {
+      border-bottom: 1px solid #ccc!important;
+      border-right: none !important;    
+  }
+  
+  }
+  
+  /* end compare style */

@@ -1,0 +1,47 @@
+.exchange_offer
+{
+    font-weight: 900 !important;
+    background: #e1f5fe !important;
+    border: 1px solid #e1f5fe !important;
+    color: #000 !important;
+    text-transform: capitalize !important;
+    margin: 10px 10px !important;
+}
+.exchange_data
+{
+    background: #f2f4f6;
+}
+.exchange_datatitle
+{
+    color:#929292;  
+}
+.exchange_button
+{
+    padding: 10px 30px !important;
+    background: linear-gradient(to right, #ffa40c 0%, #ff860a 100%) !important;
+    color: #fff !important;
+    font-weight: bold !important;
+    text-transform: capitalize !important;
+}
+.MuiDialogContent-dividers {
+   
+    border-top: 0px solid rgba(0, 0, 0, 0.12) !important;
+    border-bottom: 0px solid rgba(0, 0, 0, 0.12) !important;    
+}
+.exchange_terms
+{
+  color: green;
+}
+input[type="text1"]::placeholder {  
+                  
+  text-align: right; 
+  color:orange;
+  font-weight: bold;
+} 
+.exchange_imei
+{
+  border: 1px solid #ccc;
+    border-radius: 5px;
+    
+    
+}

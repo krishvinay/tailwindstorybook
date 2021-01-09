@@ -1,0 +1,352 @@
+.add_formdata
+{
+  margin: 8px !important;
+}
+.add_labels
+{
+width: 285px;
+background: #f6f6f6;
+}
+.css-yk16xz-control
+{
+  padding:2px 0px;
+}
+.css-1okebmr-indicatorSeparator
+{
+  background: #fff !important;
+}
+.add_inputs input
+{
+    width: 250px;
+    border: 1px solid #ced4da;
+    padding: 10px 15px;
+    position: relative;
+    font-size: 16px;
+    transition: border-color 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,box-shadow 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    border-radius: 4px;
+    margin-bottom: 5px;
+    background-color: #f6f6f6;
+}
+.add_payment {
+    
+    width: 100%;
+    margin-top: 15px !important;
+    padding: 15px 15px !important;
+    background: orange !important;
+    color: #fff !important;
+    font-weight: bold !important;
+    text-transform: capitalize !important;
+    font-size: 16px !important;
+    
+}
+.add_wishlist
+{
+    box-shadow: 5px solid #ccc;
+    padding:0px 0px 0px 0px !important;
+    box-shadow: 0px 2px 4px -1px rgba(0,0,0,0.2), 0px 4px 5px 0px rgba(0,0,0,0.14), 0px 1px 10px 0px rgba(0,0,0,0.12);
+}
+.add_data label {
+    color: #000;
+    font-weight: bold;
+    font-size: 18px;
+    font-style: revert;
+}
+.add_location svg {
+    font-size: large;
+    margin-right:15px;
+}
+.add_labelcontent
+{
+    font-weight: bolder !important;
+    font-size: 18px !important;
+}
+.add_field input
+{
+  width: 550px;
+  height: 70px;
+}
+.add_align
+{
+  display: flex;
+  padding: 20px 0px !important;
+}
+.add_price
+{
+  padding: 25px;
+}
+.add_payments {
+    border: 1px solid #ccc;
+    border-radius: 0px;
+    box-shadow: 0px 2px 4px -1px rgba(0,0,0,0.2), 0px 4px 5px 0px rgba(0,0,0,0.14), 0px 1px 10px 0px rgba(0,0,0,0.12);
+}
+.add_payments h6 {
+    padding: 15px 25px;
+    border-bottom: 1px solid #ccc;
+    font-weight: bold;
+    display: flex;
+}
+.add_payments h6 svg {
+    margin-right: 20px !important;
+}
+.add_coupon
+{
+      color: green;
+}
+.add_total
+{
+  border-top: 2px dotted #ccc;
+    font-weight: bold;
+}
+.add_total h6
+{
+  text-align: left;
+    padding: 15px 15px;
+    background: #deeac4;
+    border-radius: 5px;
+    color: green;
+    font-weight: bold;
+}
+.add_sum {
+    padding: 0px 0px 0px 10px !important;
+}
+.add_details
+{
+  border-bottom: 1px solid #ccc;
+  width: 100% !important;
+}
+.add_banner
+{
+  border-bottom: 1px solid #ccc;
+}
+.add_flexing svg {
+    margin-right: 15px;
+   
+  }
+.add_location
+{
+    width: 92%;
+    padding: 15px 5px !important;
+    color: #fff !important;
+    background: #000 !important;
+
+}
+.add_forms .MuiTextField-root
+{
+ width: 33ch;
+ margin: 4px;
+}
+
+.add_labels select {
+    padding: 12px 10px !important;
+    background: #f6f6f6;
+}
+
+.add_text
+{
+  margin:6px;
+  padding: 10px 0px;
+  
+}
+.add_radio legend {
+    margin-right: 40px;
+    font-weight: bold;
+}
+
+.MuiRadio-colorPrimary.Mui-checked:hover {
+    background-color: #fff !important;
+}
+.MuiIconButton-colorPrimary:hover {
+    background-color: #fff !important;
+}
+.add_address label
+{
+  font-weight: bold;
+}
+.add_address
+{
+  height: 120px;
+
+}
+.add_labels label
+{
+  font-weight: bold;
+
+}
+.add_input
+{
+  width: 220px;
+    border: 1px solid #ced4da;
+    padding: 10px 15px;
+    position: relative;
+    font-size: 16px;
+    transition: border-color 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,box-shadow 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    border-radius: 4px;
+    margin-bottom: 5px;
+    background-color: #fff;
+}
+.add_buttons
+{
+    padding: 20px 20px !important;
+    background: linear-gradient(to right, #ffa50c 0%, #ff8109 100%) !important;
+    width: 275px;
+    margin: 6px !important;
+    color: #fff !important;
+    font-weight: bold !important;
+    text-transform: capitalize;
+}
+.add_buttons span
+{
+  text-transform: capitalize;
+}
+.add_cancels span
+{
+  text-transform: capitalize;
+}
+.add_cancels
+{
+    padding: 20px 20px !important;
+    background: white !important;
+    width: 275px;
+    margin: 6px !important;
+    color: #000 !important;
+    border: 1px solid #868585 !important;
+    text-transform: capitalize;
+}
+.add_radio label {
+    margin-left: 30px;
+}
+
+.add_controls
+{
+      border: 0;
+    margin: 0;
+    display: inline-flex;
+    padding: 0;
+    position: relative;
+    min-width: 0;
+    flex-direction: column;
+    vertical-align: top;
+    margin:8px;
+}
+.add_stepper
+{
+  margin: 0px 350px;
+
+}
+
+@media only screen and (max-width : 767px) {
+.add_forms .MuiTextField-root
+{
+ width: 26ch;
+ margin: 8px;
+}
+.add_inputs input
+{
+  width: 100% !important;
+}
+.add_sum {
+    padding: 15px 0px 0px 0px !important;
+}
+.add_text {
+    margin: 6px 0px 6px 6px;
+    padding: 10px 0px;
+}
+.add_location {
+    width: auto;
+    padding: 15px 15px !important;
+}
+.add_field input {
+    width: 100% !important;
+    height: 70px;
+}
+.add_radio legend {
+    margin-right: 20px;
+    font-weight: bold;
+}
+.add_radio label {
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.add_buttons {
+
+    width: 100%;
+    
+}
+.add_cancels {
+    padding: 20px 70px !important;
+    width: 100%;
+    
+}
+.WithStyles\(ForwardRef\(InputBase\)\)-input-6 {
+    width: auto !important;
+   
+}
+
+}
+@media only screen and (min-width: 768px) and (max-width: 991px)
+{
+.add_field input {
+    width: 450px !important;
+    height: 70px;
+}
+.add_inputs input
+{
+  width: 250px !important;
+}
+
+.add_forms .MuiTextField-root {
+    width: 35ch;
+    margin: 4px;
+}
+.add_radio legend {
+    margin-right: 0px;
+    font-weight: bold;
+}
+.add_radio label {
+    margin-left: 20px;
+}
+
+}
+@media only screen and (min-width: 991px) and (max-width: 1100px)
+{
+.add_field input {
+    width: 470px !important;
+    height: 70px;
+}
+
+.add_location
+{
+  width: 100% !important;
+}
+.add_forms .MuiTextField-root {
+    width: 29ch;
+    margin: 4px;
+}
+.add_radio legend {
+    margin-right: 0px;
+    font-weight: bold;
+}
+.add_radio label {
+    margin-left: 20px;
+}
+.add_buttons {
+
+    width: 100%;
+    
+}
+.add_inputs input
+{
+  width: 210px !important;
+}
+.add_field input {
+    width: 470px !important;
+    height: 70px;
+}
+.add_cancels {
+    padding: 20px 70px !important;
+    width: 100%;
+    
+}
+}
+
+/* add address page css */

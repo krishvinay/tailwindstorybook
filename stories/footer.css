@@ -1,0 +1,136 @@
+/*footer*/
+.add-wrp h6{
+    color: #fff;
+    font-size: 15px;
+  }
+  .add-wrp p{
+   color: #85888d !important;
+  }
+  
+  .keywrp{
+   display: flex;
+  }
+  
+  .keywrp-main {
+   padding: 13px;
+   background: #ebebeb !important;
+  }
+  .keywrp span {
+   margin-left: 8px;
+  }
+  
+  .categorylist a {
+   background: #ebebeb;
+   color: #4e4d4d;
+   padding: 6px 10px;
+   margin: 8px 5px;
+   /* line-height: 45px; */
+   display: inline-block;
+   border-radius: 50px;
+  }
+  
+  .categorylist {
+   margin-top: 20px;
+  }
+  
+  .newletter{
+     display: flex;
+     align-items: center;
+     width: 32%;
+     margin: 0px auto;
+     padding: 7px;
+     background-color: #eff2f5;
+     border-radius: 33px;
+     margin-top: 26px;
+     margin-bottom: 34px;
+  }
+  
+  
+  .newletter>input {
+   border: none;
+   background-color: transparent;
+   outline-width: 0;
+   width: 100%;
+  }
+  
+  .soc-icon{
+   color: #fff;
+  }
+  .footer-cont {
+    border-bottom: 1px solid #cccccc8f;
+  }
+  .footer-bottom{
+   background: #131921 !important;
+   }
+  
+  .soc-icon{
+   width: 63%;
+   margin: 0px auto;
+  
+  }
+  
+  .footer-cont{
+   border-bottom: 1px solid #cccccc8f;
+  }
+  
+  
+  .iconwrp {
+   width: 20% !important;
+   border-right: 1px solid #cccccc8f;
+  }
+  
+  
+  .iconwrp:first-child {
+   border-left:1px solid #cccccc8f;
+  }
+  .footer-about-items{
+   margin: 0px auto;
+  }
+  .details-left h6{
+   color: #fff;
+   font-size: 15px;
+  }
+  .details-left p{
+   color: #85888d !important;
+  }
+  .footer-items {
+   margin: 0px auto;
+  }
+  .details-right {
+   margin-left: 14px;
+  }
+  .details-right h6{
+   color: #fff;
+   font-size: 15px;
+  }
+  .footer-newletter{
+   color: #fff;
+  }
+  .newletter-content>input {
+     border: none;
+     outline-width: 0!important;
+     width: 100%;
+     padding: 11px;
+     color: #000!important;
+  }
+  .newletter-content {
+   width: 37%;
+   margin: 0px auto;
+  }
+  .newletter-content > button {
+   margin-left: 5px;
+   background-image: linear-gradient(to right, #ffa60c , #ff7e09);
+  }
+  .dir-link{
+   background-color: #cccccc8f!important;
+  }
+  .foo-bottom{
+   background-color:#1f2a38;
+   color:#fff;
+  }
+  .foo-bottom h6{
+   margin-bottom: 0px;
+   font-size: 14px;
+  }
+  
+  

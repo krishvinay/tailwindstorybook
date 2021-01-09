@@ -1,0 +1,120 @@
+/* productdetails .................................................*/
+.tumbline-prod{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .product-img {
+    width: 44%;
+  }
+  .thumb-product img {
+    width: 50%;
+  }
+  .prod-detail-main{
+    width: 100%;
+  }
+  .product-price {
+    flex-basis: 65%;
+  }
+  .product-addcart {
+    flex-basis: 35%;
+  }
+  .prleft h6 {
+    font-size: 19px;
+  }
+  .arr-icon{
+    font-size:12px!important;
+  }
+  .price-pro-details h4 {
+    color: hsl(28deg 100% 53%);
+    font-size: 27px;
+  }
+  .price-pro-details h6 {
+    font-size: 14px;
+  }
+  .chip-wrp {
+    color: #388e3c!important;
+    border: none!important;
+    background-color: #5cb85c2b!important;
+  }
+  .emi-store a {
+    color: hsl(28deg 100% 53%);
+    font-size: 15px;
+    font-family: sans-serif;
+  }
+  .storage-wrp h6 {
+    font-size: 17px;
+  }
+  .thumb-product-product {
+    width: 50%;
+  }
+  .tumb-color {
+    display: -webkit-flex;
+    display: flex;
+    -webkit-justify-content: center;
+    justify-content: center;
+    -webkit-flex-direction: column;
+    flex-direction: column;
+  }
+  .tumb-color img {
+    width: 24px;
+    object-fit: contain;
+  }
+  .imgwrap p {
+    font-size: 13px;
+    line-height: 16px;
+    margin-top: 10px;
+  }
+  .of12{
+    align-items:end;
+  }
+  .offerlist {
+    width: 533px;
+  }
+  /* .point-rate span {
+    justify-content: flex-end;
+  } */
+  .camp-pro-left span{
+     padding:0px;
+  }
+  .camp-pro-left {
+    font-size: 14px;
+  }
+  .camp-pro-right{
+    font-size: 14px;
+  }
+  .prizc-text {
+    font-size: 14px;
+  }
+  .offerlist ul li {
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+  }
+  .btn-wrp, .btn-black {
+    width: 100%;
+  }
+  .MuiListItemIcon-root {
+    min-width: 39px!important;
+    }
+  .btn-black{
+      background-color: #000!important;
+      color: #fff!important;
+  }
+  .btn-yellow {
+    box-shadow: 0 1px 2px 0 rgba(0,0,0,.2);
+    border: none;
+    color: #fff!important;
+    padding: 8px!important;
+    background-image: -webkit-linear-gradient(left, #ffa60c , #ff7e09);
+    background-image: linear-gradient(to right, #ffa60c , #ff7e09);
+  }
+  .btn-wrp, .btn-yellow {
+    width: 100%;
+  }
+  .gr13 h5 {
+    color: #388e3c!important;
+  }
+  .prizc-text h5 {
+    color: hsl(28deg 100% 53%);
+  }
+  /* end productdetails ..............................................*/

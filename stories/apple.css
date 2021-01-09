@@ -1,0 +1,91 @@
+/* Apple Product */
+.bought-tab {
+    box-shadow: 0px 0px 11px #ccc;
+  }
+.inner-brought-item {
+
+    border-right: 1px solid #ccc!important;
+  }
+  .icon-offers p
+{
+    margin-right: auto;
+    margin-top: 1px;
+    margin-left: 5px;
+    font-weight: bold;
+}
+.icon-offers svg
+{
+  color:orange;
+}
+.icon-offers h6 {
+  color: #388e3c!important;
+  background-color: #5cb85c2b!important;
+}
+.icon-offers {
+  display: flex;
+  justify-content: space-between;
+}
+.bought-tab {
+    box-shadow: 0px 0px 11px #ccc;
+  }
+  .brought-item p {
+    float: right;
+    padding: 8px;
+    text-decoration: underline;
+}
+.brought-item p {
+    float: right;
+    padding: 8px;
+    text-decoration: underline;
+}
+.brought-item li {
+    border: 1px solid #3c3c3c;
+    border-radius: 50px;
+    margin-right: 10px;
+    color: #3c3c3c;
+  }
+.listdatas p {
+    color: #2b2b2b;
+
+}
+.listdatas svg
+{
+  font-size: small !important;
+  color:#2b2b2b;
+}
+.listdatas
+{
+  padding: 0px !important;
+}
+.button_back
+{
+  background-color: #ffffff !important;
+  border: 1px solid #aeaeae !important;
+  margin:0px 10px !important;
+}
+.react-tabs__tab--selected {
+    background: #020202;
+    border-color: #aaa;
+    color: #fff!important;
+    border-radius: 50px;
+    border: none;
+  }
+/* End apple product */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
